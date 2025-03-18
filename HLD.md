@@ -1,4 +1,4 @@
-# Transaction Insight System
+# Transaction Insight System - High Level Design
 
 ### 📌 Project Objective
 Design and implement a **Transaction Insight System** as a scalable, maintainable, and well-structured backend solution. It should enable financial organizations to efficiently query, filter, and analyze large volumes of financial transactions in real time with minimal latency.
@@ -15,8 +15,9 @@ The system must allow users to:
 - Expose APIs to support operations and third-party integrations.
 
 ---
+---
 
-## ✅ Step 1: High-Level System Design
+## ✅ High-Level System Design
 
 ### 🎯 Goal
 Establish the foundational **architecture**, **components**, and **technology stack** for building the backend of the Transaction Insight System.
@@ -100,5 +101,5 @@ _(Insight Service and others can be modularized in future iterations)_
 
 ---
 
-## ✅ Next Steps: 
-- **Step 2**: Database Design & Schema Definition.
+### ✅ Next Steps: 
+**Database Design & Schema Definition.**
